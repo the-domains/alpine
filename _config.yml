@@ -1,7 +1,7 @@
 name: Alpine
 favicon: null
-layout_spectrum: 0.07954987790435553
-typography_spectrum: 0.7242305802647024
+layout_spectrum: 0.0768
+typography_spectrum: 0.38106
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#f1f1f1'
+    - '#8d8b99'
+    - '#fec195'
+    - '#2d2d2d'
+    - '#a95c3a'
   brandStrength: 0.8386868999805301
   lightness: 0.4761570356786251
   saturation: 0.9321745398920029
