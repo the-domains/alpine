@@ -1,6 +1,6 @@
 name: Alpine
 favicon: null
-layout_spectrum: 0.0768
+layout_spectrum: 0.83589
 typography_spectrum: 0.38106
 title: Alpine Adventures
 cta:
@@ -22,7 +22,7 @@ color:
     - '#fec195'
     - '#2d2d2d'
     - '#a95c3a'
-  brandStrength: 0.8386868999805301
+  brandStrength: 0.5
   lightness: 0.4761570356786251
   saturation: 0.9321745398920029
   rhythmicContrast: 0.4819098892621696
